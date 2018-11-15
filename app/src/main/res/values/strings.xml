@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Digitalize</string>
+    <string name="get_images_failed">Falha ao obter as imagens</string>
+    <string name="good_morning">Bom dia</string>
+    <string name="good_afternoon">Boa tarde</string>
+    <string name="good_night">Boa noite</string>
+    <string name="share">Compartilhar</string>
+    <string name="save">Salvar</string>
+</resources>
